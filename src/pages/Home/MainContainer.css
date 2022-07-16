@@ -1,0 +1,20 @@
+.mainContainer{
+    height: 100%;
+    width:100%
+}
+
+.addImg{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(111, 111, 241);
+    bottom: 12%;
+    position: absolute;
+    right: 6%;
+    border-radius: 50%;
+}
+
+.addImgSvg{
+    margin: 8px;
+    height: 70%;
+    width: 70%;
+}

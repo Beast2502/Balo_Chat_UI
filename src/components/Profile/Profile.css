@@ -1,0 +1,21 @@
+.profileContainer {
+  height: 110px;
+  background-color: #000;
+  color: #ffff;
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  /* padding-left: 20px; */
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+}
+.profileSub {
+  padding: 20px;
+  font-size: 18px;
+}
+.profImg {
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+}

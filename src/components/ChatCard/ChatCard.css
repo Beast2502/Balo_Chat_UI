@@ -1,0 +1,51 @@
+.chatCardContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 12px 24px;
+}
+
+.chatCardSubContainer {
+  padding-left: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.chatCardSub {
+  width: 11rem;
+}
+.chatCardImg {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.chatUserName {
+  font-size: 16px;
+  color: var(--black);
+  font-size: larger;
+  font-weight: 500;
+}
+.chatTime {
+  font-size: 10px;
+}
+.chatMessage {
+  font-size: 14px;
+  color: var(--grey);
+}
+
+.chatCardCount {
+  margin-left: 15px;
+  margin-top: 2px;
+  height: 16px;
+  width: 16px;
+  background-color: var(--black);
+  color: var(--white);
+  border-radius: 50%;
+  text-align: center;
+  font-size: 12px;
+  padding-top: 1px;
+}
+
+.w-100 {
+  width: 100%;
+}

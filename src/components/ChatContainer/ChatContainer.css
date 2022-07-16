@@ -1,0 +1,11 @@
+.chatContainer {
+  border-radius: 24px 24px 0px 0px;
+  background-color: #ffff;
+  top: 10vh;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  overflow-y: scroll;
+  max-width: 600px;
+  top: 94px;
+}
